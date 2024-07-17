@@ -2,6 +2,8 @@
     border: 1px dashed var(--stroke-default);
     border-radius: .25rem;
 
+    margin-bottom: 3rem;
+
     display: grid;
     justify-items: center;
     gap: .5rem;
