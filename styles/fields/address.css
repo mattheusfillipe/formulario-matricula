@@ -1,0 +1,6 @@
+.street-wrapper,
+.city-wrapper {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 1.25rem;
+}
